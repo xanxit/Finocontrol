@@ -75,15 +75,6 @@ const Navbar = () => (
         </a>
       </div>
     </div>
-    <div
-      className="sm:hidden py-4 px-8 cursor-pointer"
-      id="nav_parent"
-      onClick={handleClick}
-    >
-      <div id="div1" className="h-1 w-6 m-1 bg-green-700"></div>
-      <div id="div2" className="h-1 w-6 m-1 bg-green-700"></div>
-      <div id="div3" className="h-1 w-6 m-1 bg-green-700"></div>
-    </div>
 
     <div
       className="hidden sm:hidden text-green-900 text-lg py-3"
@@ -92,31 +83,31 @@ const Navbar = () => (
       {/* <NavLinks /> */}
       <div>
         <a className="px-4 md:px-8 lg:px-10  block sm:inline-block" href="#top">
-          Home
+          Overview
         </a>
         <a
           className="px-4 md:px-8 lg:px-10  block sm:inline-block"
           href="#courses"
         >
-          Courses
+          Instructor
         </a>
         <a
           className="px-4 md:px-8 lg:px-10  block sm:inline-block"
           href="#webinar"
         >
-          Webinar
+          Benefits
         </a>
         <a
           className="px-4 md:px-8 lg:px-10  block sm:inline-block"
           href="#company"
         >
-          Company &#8594;
+          Requirement
         </a>
         <a
           className="px-4 md:px-8 lg:px-10  block sm:inline-block"
           href="#bottom"
         >
-          About
+         Content
         </a>
       </div>
     </div>

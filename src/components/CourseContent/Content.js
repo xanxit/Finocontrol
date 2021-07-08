@@ -70,7 +70,7 @@ function FAQComponent() {
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10 sm:pr-10 md lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -138,7 +138,7 @@ function FAQComponent() {
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10 sm:pr-10 md lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -206,7 +206,7 @@ function FAQComponent() {
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10 sm:pr-10 md lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -342,7 +342,7 @@ function FAQComponent() {
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10 sm:pr-10 md lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -356,8 +356,8 @@ function FAQComponent() {
           </ul>
         </div>
       </div>
-      <div className="min-h-screen bg-gray-200 mt-10 flex justify-center">
-        <button className="transition duration-500 border-1 text-lg h-12 w-80 bg-white hover:bg-red-500 hover:text-white text-red-500 mt-2 px-3 rounded-md">
+      <div className="flex justify-center">
+        <button className="transition duration-500 border-1 text-lg h-12 w-80 bg-white border-2 hover:bg-red-500 hover:text-white text-red-500 mt-2 px-3 rounded-md">
           <div>Download Course Brouchre</div>
         </button>
       </div>
