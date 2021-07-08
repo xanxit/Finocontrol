@@ -14,7 +14,7 @@ function FAQComponent() {
         <div className="w-10/12 mx-auto">
           <ul>
             <li className="py-6 border-gray-200 border-solid border-b">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
                   What does lorem ipsum actually mean?
                 </h3>
@@ -64,13 +64,13 @@ function FAQComponent() {
               </div>
               {question === 0 && (
                 <div className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
-                  <div className="flex flex-wrap justify-between">
+                  <div className="flex flex-wrap justify-evenly">
                     <div className="pl-10 sm:pl-10 md:pl-16 xl:pl-28">
                       <h2 className="xl:px-0 xl:text-xl md:text-2xl text-xl font-bold text-gray-700">
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10 pr-16 sm:pr-10 md:pr-16 lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -82,7 +82,7 @@ function FAQComponent() {
               )}
             </li>
             <li className="py-6 border-gray-200 border-solid border-b">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
                   How do we know what kind of sounds dinosaurs made?
                 </h3>
@@ -132,13 +132,13 @@ function FAQComponent() {
               </div>
               {question === 1 && (
                 <div className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
-                  <div className="flex flex-wrap justify-between">
+                  <div className="flex flex-wrap justify-evenly">
                     <div className="pl-10 sm:pl-10 md:pl-16 xl:pl-28">
                       <h2 className="xl:px-0 xl:text-xl md:text-2xl text-xl font-bold text-gray-700">
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10 pr-16 sm:pr-10 md:pr-16 lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -150,7 +150,7 @@ function FAQComponent() {
               )}
             </li>
             <li className="py-6 border-gray-200 border-solid border-b">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
                   Why work from home is not as fun as we thought it would be?
                 </h3>
@@ -200,13 +200,13 @@ function FAQComponent() {
               </div>
               {question === 2 && (
                 <div className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
-                  <div className="flex flex-wrap justify-between">
+                  <div className="flex flex-wrap justify-evenly">
                     <div className="pl-10 sm:pl-10 md:pl-16 xl:pl-28">
                       <h2 className="xl:px-0 xl:text-xl md:text-2xl text-xl font-bold text-gray-700">
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10 pr-16 sm:pr-10 md:pr-16 lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -218,7 +218,7 @@ function FAQComponent() {
               )}
             </li>
             <li className="py-6 border-gray-200 border-solid border-b">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
                   In what way did human beings started using words?
                 </h3>
@@ -268,13 +268,13 @@ function FAQComponent() {
               </div>
               {question === 3 && (
                 <div className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
-                  <div className="flex flex-wrap justify-between">
+                  <div className="flex flex-wrap justify-evenly">
                     <div className="pl-10 sm:pl-10 md:pl-16 xl:pl-28">
                       <h2 className="xl:px-0 xl:text-xl md:text-2xl text-xl font-bold text-gray-700">
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10 pr-16 sm:pr-10 md:pr-16 lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10 sm:pr-10 lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide  cursor-pointer bg-green-600 opacity-50">
                           Download
@@ -286,7 +286,7 @@ function FAQComponent() {
               )}
             </li>
             <li className="py-6 border-gray-200 border-solid border-b">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
                   Which is the least developed area in the world
                 </h3>
@@ -336,13 +336,13 @@ function FAQComponent() {
               </div>
               {question === 4 && (
                 <div className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
-                  <div className="flex flex-wrap justify-between">
+                  <div className="flex flex-wrap justify-evenly">
                     <div className="pl-10 sm:pl-10 md:pl-16 xl:pl-28">
                       <h2 className="xl:px-0 xl:text-xl md:text-2xl text-xl font-bold text-gray-700">
                         Check the Course Details
                       </h2>
                     </div>
-                    <div className="xs:pr-10 pr-16 sm:pr-10 md:pr-16 lg:pr-10 xl:pr-28">
+                    <div className="xs:pr-10  sm:pr-10 md: lg:pr-10 xl:pr-28">
                       <div className="mb-10 ml-0 curor-pointer hover:cursor-pointer">
                         <h2 class="text-base text-white font-light inline rounded px-4 py-2 tracking-wide uppercase cursor-pointer bg-green-600 opacity-50">
                           Download
