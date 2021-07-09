@@ -34,9 +34,11 @@ const Navbar = () => (
     <div className="hidden sm:flex text-lg py-3" id="lol">
       {/* <NavLinks /> */}
       <div>
-        <a className="px-4 md:px-8 lg:px-10  block sm:inline-block" href="#top">
+        <a className="px-4 md:px-8 underline lg:px-10  block sm:inline-block" href="#top">
           Overview
+          
         </a>
+        
         <a
           className="px-4 md:px-8 lg:px-10  block sm:inline-block"
           href="#courses"
@@ -107,7 +109,7 @@ const Navbar = () => (
           className="px-4 md:px-8 lg:px-10  block sm:inline-block"
           href="#bottom"
         >
-         Content
+          Content
         </a>
       </div>
     </div>
