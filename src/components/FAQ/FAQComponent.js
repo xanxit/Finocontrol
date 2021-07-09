@@ -24,7 +24,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-between items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  What does lorem ipsum actually mean?
+                 These questions are already being taught at my campus. Should I enroll for this program ?
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -72,20 +72,16 @@ function FAQComponent() {
               </div>
               {question === 0 && (
                 <p className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
-                  Find the latest events updates or create events, concerts,
-                  conferences, workshops, exhibitions, and cultural events in
-                  all cities of the US. The aim of Eventistan is to promote
-                  healthy and entertaining event. Greatest appreciation to you
-                  and your team for the outstanding job you did for us. The
-                  website is just what we wanted, and we were thrilled with the
-                  speed your team exercised.{" "}
+                    While the subjects are taught at most campuses,the program adresses the fact that subjects in the curriculum
+                    may not prepare you for the industry, and even if that happens, usually it is faculty specific and not entire domain.
+                    The program ensures that even if some of the topics have not been offered in your curriculum {" "}
                 </p>
               )}
             </li>
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-between items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  How do we know what kind of sounds dinosaurs made?
+                 This seems to be high intensity program. Will i be able to do justice to this along with my other works?
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -146,7 +142,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-between items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  Why work from home is not as fun as we thought it would be?
+                I have already done/ doing certain levels of CFA. Should I enroll for this program?
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -207,7 +203,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-between items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  In what way did human beings started using words?
+                 When will the live sessions be conducted?
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -254,67 +250,6 @@ function FAQComponent() {
                 </div>
               </div>
               {question === 3 && (
-                <p className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
-                  Find the latest events updates or create events, concerts,
-                  conferences, workshops, exhibitions, and cultural events in
-                  all cities of the US. The aim of Eventistan is to promote
-                  healthy and entertaining event. Greatest appreciation to you
-                  and your team for the outstanding job you did for us. The
-                  website is just what we wanted, and we were thrilled with the
-                  speed your team exercised.{" "}
-                </p>
-              )}
-            </li>
-            <li className="py-6 border-gray-200 border-solid border-b">
-              <div className="flex justify-between items-center">
-                <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  Which is the least developed area in the world
-                </h3>
-                <div
-                  className="cursor-pointer"
-                  onClick={() =>
-                    question === 4 ? setquestion(null) : setquestion(4)
-                  }
-                >
-                  {question === 4 ? (
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={36}
-                      height={36}
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="#A0AEC0"
-                      fill="none"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      aria-label="Close"
-                    >
-                      <path stroke="none" d="M0 0h24v24H0z" />
-                      <circle cx={12} cy={12} r={9} />
-                      <line x1={9} y1={12} x2={15} y2={12} />
-                    </svg>
-                  ) : (
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={36}
-                      height={36}
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="#A0AEC0"
-                      fill="none"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      aria-label="Open"
-                    >
-                      <path stroke="none" d="M0 0h24v24H0z" />
-                      <circle cx={12} cy={12} r={9} />
-                      <line x1={9} y1={12} x2={15} y2={12} />
-                      <line x1={12} y1={9} x2={12} y2={15} />
-                    </svg>
-                  )}
-                </div>
-              </div>
-              {question === 4 && (
                 <p className="pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg">
                   Find the latest events updates or create events, concerts,
                   conferences, workshops, exhibitions, and cultural events in

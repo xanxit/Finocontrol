@@ -18,14 +18,9 @@ export default function Learn() {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       #
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
                   </dt>
-                  <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                  <dd class="mt-1 ml-24 text-base text-gray-800">
+End-to-End Understanding of a company and sector dynamics like an Analyst
                   </dd>
                 </div>
                 <div class="relative">
@@ -33,14 +28,9 @@ export default function Learn() {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       #
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
                   </dt>
-                  <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                  <dd class="mt-1 ml-24 text-base text-gray-800">
+Read Annual Reports and analyse them in detail and Defend your research with Data.
                   </dd>
                 </div>
                 <div class="relative">
@@ -48,14 +38,9 @@ export default function Learn() {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       #
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
                   </dt>
-                  <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                  <dd class="mt-1 ml-24 text-base text-gray-800">
+Build Valuation Models of the company and equity research report
                   </dd>
                 </div>
                 <div class="relative">
@@ -63,14 +48,9 @@ export default function Learn() {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       #
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
                   </dt>
-                  <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                  <dd class="mt-1 ml-24 text-base text-gray-800">
+Perform Credit analysis of the company
                   </dd>
                 </div>
                 <div class="relative">
@@ -78,14 +58,9 @@ export default function Learn() {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       #
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
                   </dt>
-                  <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                  <dd class="mt-1 ml-24 text-base text-gray-800">
+Perform M&A Synergy Analysis and Theme Building for a Sector.
                   </dd>
                 </div>
               </dl>

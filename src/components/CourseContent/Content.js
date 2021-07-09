@@ -16,7 +16,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  What does lorem ipsum actually mean?
+                  Applied Financial Statement Analysis Certification
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -84,7 +84,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  How do we know what kind of sounds dinosaurs made?
+                  Equity Valuation Certification (mandatory)
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -152,7 +152,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  Why work from home is not as fun as we thought it would be?
+                  Investment Banking Certification(mandatory)
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -220,7 +220,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  In what way did human beings started using words?
+                  Credit Analysis Certification (mandatory)
                 </h3>
                 <div
                   className="cursor-pointer"
@@ -288,7 +288,7 @@ function FAQComponent() {
             <li className="py-6 border-gray-200 border-solid border-b">
               <div className="flex justify-evenly items-center">
                 <h3 className="text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12">
-                  Which is the least developed area in the world
+                 Applied Derivatives Certification (Optional)
                 </h3>
                 <div
                   className="cursor-pointer"

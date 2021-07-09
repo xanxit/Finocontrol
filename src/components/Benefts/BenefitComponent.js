@@ -18,14 +18,9 @@ export default function () {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       01
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
                   </dt>
                   <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                    Higly practical - live cases of companies and sectors throughout the program.
                   </dd>
                 </div>
                 <div class="relative">
@@ -33,14 +28,10 @@ export default function () {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       02
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
+
                   </dt>
                   <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                     Webinars with experts in the fields of valuation, credit analysis and investment banking.
                   </dd>
                 </div>
                 <div class="relative">
@@ -48,14 +39,10 @@ export default function () {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       03
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
+
                   </dt>
                   <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+This program aims to helps you create thought process needed for analysis.
                   </dd>
                 </div>
                 <div class="relative">
@@ -63,14 +50,10 @@ export default function () {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       04
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
+
                   </dt>
                   <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+Live sessions to understand the concepts better and get your queries answered.
                   </dd>
                 </div>
                 <div class="relative">
@@ -78,14 +61,10 @@ export default function () {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       05
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
+
                   </dt>
                   <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+Guidancw from the Mentors from the industry to prepare yourself better for opportunities.
                   </dd>
                 </div>
                 <div class="relative">
@@ -93,14 +72,10 @@ export default function () {
                     <h4 class="absolute flex items-center justify-center w-20 h-8 rounded-md  tracking-wide font-regular text-3xl text-green-500">
                       06
                     </h4>
-                    <h5 class="pt-1 ml-24 text-lg leading-6 font-medium text-gray-900">
-                      Lorem Ipsum
-                    </h5>
+
                   </dt>
                   <dd class="mt-1 ml-24 text-base text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+Faculty includes IIM alumni/CFA/FRM charterholders.
                   </dd>
                 </div>
               </dl>
