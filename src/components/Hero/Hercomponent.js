@@ -6,7 +6,7 @@ function HeroComponent() {
       <div>
         <div className="">
           <img
-            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdisruptglobal.io%2Fwp-content%2Fuploads%2F2021%2F06%2Ffinocontrol-300x158.jpeg&f=1&nofb=1"
+            src="https://www.influencive.com/wp-content/uploads/2021/05/finocontrol.jpeg"
             alt="Images"
             className="rounded-br-large z-50 w-auto h-auto"
           />
